@@ -36,7 +36,7 @@ User:
  - password - user123.
 
 ## API
-- api/register - Register (дополнительно)
+- /api/register - Register (дополнительно)
 - /api/login -   Login
 - /api/categories - Получение списка всех категорий
 - /api/category/products/{id} - Получение списка товаров в конкретной категории

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f7b7872-aa2e-403b-a597-25e2e2d765f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="0f7b7872-aa2e-403b-a597-25e2e2d765f7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
         <counts>
           <entry key="conf" value="475" />
           <entry key="env" value="19" />
-          <entry key="md" value="774" />
+          <entry key="md" value="775" />
           <entry key="php" value="2237" />
           <entry key="yml" value="273" />
         </counts>
@@ -63,7 +61,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key=".env file" value="19" />
-          <entry key="Markdown" value="774" />
+          <entry key="Markdown" value="775" />
           <entry key="PHP" value="2237" />
           <entry key="SmartyConfig" value="475" />
           <entry key="YAML" value="273" />
@@ -82,8 +80,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1020">
-                <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <first_editor relative-caret-position="289">
+                <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -358,18 +356,18 @@
       <workItem from="1603214411660" duration="4932000" />
       <workItem from="1603258090523" duration="12825000" />
       <workItem from="1603338809479" duration="3542000" />
-      <workItem from="1603345226723" duration="7631000" />
+      <workItem from="1603345226723" duration="7735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28930000" />
+    <option name="totallyTimeSpent" value="29034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26093516" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26093516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -384,7 +382,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3501529" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3501529" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -733,8 +731,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1020">
-            <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <first_editor relative-caret-position="289">
+            <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
