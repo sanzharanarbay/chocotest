@@ -13,7 +13,11 @@ class ProductController extends Controller
         return response()->json($products, 200);
     }
 
-    public function index(){
+    public function index(Request $request){
+        if($request){
+            $products = Product::filter($request)->with('category')->get();
+            return response()->json($products, 200);
+        }
         $products = Product::with('category')->get();
         return response()->json($products, 200);
     }
